@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Bill Please</string>
+
+    <string name="amount">Amount: </string>
+    <string name="pax">No. of Pax: </string>
+    <string name="hintAmount">Enter amount</string>
+    <string name="hintPax">Enter no. of pax</string>
+
+    <string name="gst">GST: </string>
+    <string name="gstEnabled">YES</string>
+    <string name="gstDisabled">NO</string>
+    <string name="service">Service Charge: </string>
+    <string name="serviceEnabled">YES</string>
+    <string name="serviceDisabled">NO</string>
+
+    <string name="displayAmount">Display Total Amount</string>
+    <string name="displaySplit">Display Each Amount</string>
+
+    <string name="splitBtn">SPLIT THE BILL</string>
+    <string name="reset">RESET</string>
+</resources>
